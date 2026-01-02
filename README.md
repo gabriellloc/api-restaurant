@@ -43,7 +43,7 @@ No seu terminal, execute:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/gabriellloc/api-restaurant
 
 # Acesse a pasta do projeto
 cd seu-projeto
