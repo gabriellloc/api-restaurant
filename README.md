@@ -46,7 +46,7 @@ No seu terminal, execute:
 git clone https://github.com/gabriellloc/api-restaurant
 
 # Acesse a pasta do projeto
-cd seu-projeto
+cd api-restaurant
 
 # Instale as dependências
 npm install
